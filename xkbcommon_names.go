@@ -1,4 +1,4 @@
-package xkbcommon
+package xkb
 
 const (
 	ModNameShift = "Shift"

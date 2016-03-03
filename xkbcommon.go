@@ -1,4 +1,4 @@
-package xkbcommon
+package xkb
 
 /*
 #cgo LDFLAGS: -lxkbcommon
